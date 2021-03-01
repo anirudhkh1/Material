@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	structs2()
+	interfaces()
 }
